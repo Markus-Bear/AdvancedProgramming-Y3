@@ -1,2 +1,13 @@
 .vs/
 *.ipch
+x64/
+**/x64/
+packages/
+*.exe
+*.pdb
+*.ilk
+*.obj
+*.idb
+*.tlog
+*.log
+*.user
