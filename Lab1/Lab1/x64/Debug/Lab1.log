@@ -1,5 +1,0 @@
-﻿  lab1.cpp
-  lab2.cpp
-  Generating Code...
-lab2.obj : error LNK2005: main already defined in lab1.obj
-C:\Users\mmpho\OneDrive - South East Technological University\ThirdYear\AdvancedProgramming\Lab1\x64\Debug\Lab1.exe : fatal error LNK1169: one or more multiply defined symbols found
